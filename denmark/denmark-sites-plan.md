@@ -6,7 +6,7 @@ author: copilot
 
 This itinerary is designed to minimize hotel changes while covering your Denmark sites with public transport-friendly day trips.
 
-See [Denmark list of sites](denmark-sites.md)
+See [Denmark list of sites](denmark-sites.md) for detailed info for each site.
 
 ## Trip Structure (Hotel Bases)
 
@@ -96,5 +96,5 @@ See [Denmark list of sites](denmark-sites.md)
 
 - Rubjerg Knude is not included in this 12-day public transport plan because it is remote and adds significant travel time.
 - If Rubjerg Knude is a must, replace Day 11 with North Jutland (Hjorring/Lonstrup) and reduce Zealand stops.
-- Use Rejseplanen for real-time Danish public transport and tide-dependent timing for Mando.
+- Use [Rejseplanen](https://www.rejseplanen.dk/webapp/?language=en_EN#!P|TP!histId|0!histKey|H145196) for real-time Danish public transport and tide-dependent timing for Mando.
 - For family comfort, plan one lighter half-day every 3-4 days.

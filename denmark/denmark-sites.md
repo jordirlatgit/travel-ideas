@@ -5,7 +5,7 @@ description: Each site includes main points of interest and public transport inf
 
 # 12-day itinerary
 
-Check [12-day itinerary](denmark-sites-plan.md) for a day-by-day travel plan.
+Check [12-day itinerary](denmark-sites-plan.md) for a day-by-day travel plan summary.
 
 # Hotel-minimizing base plan (day-trip clusters)
 
