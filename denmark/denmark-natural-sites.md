@@ -1,3 +1,8 @@
+---
+title: 20 Well-Connected Places for a Family Low-Budget Trip in Denmark 
+author: claude
+---
+
 Here's a curated family travel guide to Denmark on a budget, focusing on public transport access and nature! 🇩🇰
 
 ---

@@ -1,6 +1,12 @@
+---
+title: 12-day itinerary
+author: copilot
+---
 # Denmark Family Summer Itinerary (12 Days)
 
 This itinerary is designed to minimize hotel changes while covering your Denmark sites with public transport-friendly day trips.
+
+See [Denmark list of sites](denmark-sites.md)
 
 ## Trip Structure (Hotel Bases)
 
